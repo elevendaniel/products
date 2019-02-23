@@ -1,1 +1,1 @@
-# products
+#This program is practice for "list" and "for loop"
